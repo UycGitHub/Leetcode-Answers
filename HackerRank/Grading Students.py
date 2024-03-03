@@ -9,4 +9,4 @@ def gradingStudents(grades):
         res.append(grade)
     return res
 
-link --> https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
+//link --> https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
